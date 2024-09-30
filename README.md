@@ -1,7 +1,7 @@
 # travel_reviews
 Travel analysis based on average user ratings.
 
-**Overview** The objective of this project is to apply a hypothetical scenario in which our team provides Artificial Intelligence "AI," specifically machline learning techniques and services to target a potential client in an effort to improve company performance based on our proposed AI consulting services and strategies.   
+**Overview** The objective of this project is to apply a hypothetical scenario in which our team provides Artificial Intelligence "AI," specifically machine learning techniques and services to target a potential client in an effort to improve company performance based on our proposed AI consulting services and strategies.   
 
 **Audience - Asia Tour Guides Inc.** Asia Tour Guides is an Award-Winning national tour guide company offerting custom private guided tours for the adventurous in Asia with a fleet of 100 luxury vehicles and boats.  The company employs 200 full-time personnel and additional contractors are outsourced to assist with the day-to-day operations.  Asia Tour Guides is recognized for its Stellar Customer Service & Travel Packages and making every travel experience unique and memorable.
 
